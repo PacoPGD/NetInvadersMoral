@@ -1,0 +1,17 @@
+Esta nave de pequeño tamaño no es la mas debil ni mucho menos, ya que es la nave mas veloz del juego y eso te permitira esquivar los ataques de tus
+adversarios ademas de tener la mejor furia de todas las naves
+
+Stats de combate:
+Potencia de fuego = 4
+Velocidad de nave = 9
+Escudos de nave = 3
+Bombas de plasma = 0
+
+
+Ataque de furia:
+Transforma tu nave en supersonic boost durante un corto periodo de tiempo, en ese momento tu daño y velocidad se multiplican x2, te vuelves
+inmune a ataques y ademas quitas un daño de 10 a todo lo que tocas
+
+
+Elemento de la nave:
+Velocidad

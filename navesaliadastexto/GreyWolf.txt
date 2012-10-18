@@ -1,0 +1,16 @@
+La nave con mas defensa de todo el juego, esta resistente nave te hara superar las fases mas dificiles sin perder todos tus escudos
+
+
+Stats de combate:
+Potencia de fuego = 4
+Velocidad de nave = 4
+Escudos de nave = 8
+Bombas de plasma = 0
+
+
+Ataque de furia:
+Lanza gran cantidad de notas musicales en muchas direcciones que dañan a tus enemigos con 50 de potencia por nota
+
+
+Elemento de la nave:
+Musical

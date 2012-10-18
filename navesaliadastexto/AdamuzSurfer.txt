@@ -1,0 +1,16 @@
+Un legendario ninja sobre una tabla... nadie ha pilotado aun esta nave legendaria
+
+
+Stats de combate:
+Potencia de fuego = 10
+Velocidad de nave = 10
+Escudos de nave = 10
+Bombas de plasma = 10
+
+
+Ataque de furia:
+Mueren todos los enemigos que hay en pantalla sin excepcion
+
+
+Elemento de la nave:
+Dios

@@ -1,0 +1,18 @@
+Completamente equipada y con grandes cañones que disparan inmensas bolas de fuego, el masinguer java puede decirse de ser
+la nave mas completa, por eso mismo esta pilotada por el gran protagonista pelirrojo.
+
+
+
+Stats de combate:
+Potencia de fuego = 5
+Velocidad de nave = 4
+Escudos de nave = 4
+Bombas de plasma = 6
+Bono = Tamaño proyectil 
+
+Ataque de furia:
+El ataque de furia es una cruz de fuego que se expande a partir de la nave y acaba con todos los enemigos de tu alrededor con una potencia de 40
+
+
+Elemento de la nave:
+Fuego

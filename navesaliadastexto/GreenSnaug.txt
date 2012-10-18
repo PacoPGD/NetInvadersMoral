@@ -1,0 +1,17 @@
+Una resistente nave militar con la mas alta potencia de fuego, lo que hace que destruya a sus enemigos a toda velocidad y sin
+complicacones
+
+
+Stats de combate:
+Potencia de fuego = 8
+Velocidad de nave = 4
+Escudos de nave = 3
+Bombas de plasma = 4
+
+
+Ataque de furia:
+Una onda expansiva acaba con todos los de tu alrededor sin darles ninguna oportunidad con una potencia de 30
+
+
+Elemento de la nave:
+Guerra

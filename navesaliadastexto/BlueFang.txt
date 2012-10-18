@@ -1,0 +1,16 @@
+Una nave equilibrada y versatil, teniendo tendencia a la defensa y velocidad, haciendola resistente y preparada para
+situaciones complicadas
+
+Stats de combate:
+Potencia de fuego = 4
+Velocidad de nave = 6
+Escudos de nave = 6
+Bombas de plasma = 0
+
+
+Ataque de furia:
+El ataque de furia te envuelve en una burbuja protectora que destruye todo lo que choca contra ella potencia=10
+
+
+Elemento de la nave:
+¿¿??

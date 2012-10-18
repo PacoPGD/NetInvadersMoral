@@ -1,0 +1,18 @@
+Esta nave en forma de caza es una gran maquina preparada unicamente para combatir, sus estadisticas
+son realmente compensadas lo que la hace una nave realmente versatil en cualquier situación
+
+
+Stats de combate:
+Potencia de fuego = 6
+Velocidad de nave = 5
+Escudos de nave = 5
+Bombas de plasma = 0
+
+
+Ataque de furia:
+El ataque de furia es un haz de luz que acaba con todo lo que hay frente a la white galeon disparando un gigante haz de luz
+de 50 de potencia
+
+
+Elemento de la nave:
+Luz

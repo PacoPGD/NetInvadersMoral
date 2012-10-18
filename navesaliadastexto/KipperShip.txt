@@ -1,0 +1,15 @@
+Un autentico bombardero con stats realmente desequilibradas, seras un dios si superas el juego con esta nave
+
+Stats de combate:
+Potencia de fuego = 2
+Velocidad de nave = 2
+Escudos de nave = 3
+Bombas de plasma = 18
+
+
+Ataque de furia:
+Suma 4 bombas de plasma a tu arsenal
+
+
+Elemento de la nave:
+Explosion
